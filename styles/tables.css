@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: #FFFFFF;opacity: 0.7;
+    width: 80%;
+    font-size: 300%;
+    margin: auto;
+}
+table{
+      background-color:#FFFFFF;opacity: 0.8;
+      color: #000000;
+      text-align:center;
+      margin: auto;
+      font-size: 120%;
+    }
+body{  
+    text-align: center;
+   background: url(cueva2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    } 
+ul li a{
+    background-color: #FFFFFF;opacity: 0.7;
+    width: 40%;
+    font-size: 190%;
+    margin: auto;
+    color: black;
+    list-style: none;
+}

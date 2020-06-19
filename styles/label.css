@@ -1,0 +1,49 @@
+h1{
+    
+    text-align: center;
+    background-color: #FFFFFF;opacity: 0.7;
+    width: 50%;
+    margin: auto;
+    font-size: 300%;
+}
+
+body{  
+    text-align: center;
+   background: url(cueva2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    } 
+form{
+   text-align: center;
+    background-color: #FFFFFF;opacity: 0.7;
+    width: 50%;
+    margin: auto;
+    font-size: 150%;
+    
+    }
+    input{
+        font-size: 80%;
+        margin: 2%;
+    }
+    button{
+        font-size: 80%;
+        margin: 2%;
+    }
+ul a{
+    background-color: #FFFFFF;opacity: 0.7;
+    width: 40%;
+    font-size: 190%;
+    margin: auto;
+    color: black;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-feb-2020, 21:23:06
+    Author     : User
+*/
+
